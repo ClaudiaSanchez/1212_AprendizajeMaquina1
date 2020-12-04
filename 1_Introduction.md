@@ -2,10 +2,7 @@
 
 Machine Learning definitions:
 
-[Text to display][identifier] will display a link
-[identifier]: https://es.wikipedia.org/wiki/Arthur_L._Samuel
-
-- Arthur Samuel (1959). Machine Learning: Field of study that gives computers the ability to learn without being explicitly programmed.
+- [Arthur Samuel](https://es.wikipedia.org/wiki/Arthur_L._Samuel) (1959). Machine Learning: Field of study that gives computers the ability to learn without being explicitly programmed.
 - From the book “An Introduction to Statistical Learning”: Statistical learning refers to a vast set of tools for understanding data.
 - From the book “Machine Learning in action”:
   - Machine learning is turning data into information.
