@@ -2,7 +2,5 @@
 
 afsd asfklj ñlskjf ñlaksj ñlksjf ñlksjf ñaslkjf añslkjdf 
 
-<figure class="video_container">
-  <iframe src="https:https://www.youtube.com/embed/1iqh1B1OZAg" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/1iqh1B1OZAg)
 
