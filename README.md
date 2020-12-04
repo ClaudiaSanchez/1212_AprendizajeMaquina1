@@ -1,1 +1,2 @@
-# 1212_AprendizajeMaquina1
+# Curso: Aprendizaje de Máquina I
+Universidad Panamericana campus Aguascalientes
