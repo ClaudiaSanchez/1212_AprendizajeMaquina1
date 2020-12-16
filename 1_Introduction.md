@@ -19,5 +19,5 @@ Machine Learning definitions:
 
 ## Machine Learning Applications
 
-- [Face recognition] (https://www.google.com/search?q=face+recognition&safe=strict&rlz=1C1SQJL_enMX896MX896&sxsrf=ALeKk02HE65u5YMjiZ411PRbRNGwaTeXKA:1608154734698&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi--9Gdu9PtAhUC7awKHaJKC4IQ_AUoAXoECAIQAw&biw=837&bih=492&dpr=1.25)
+- [Face recognition](https://www.google.com/search?q=face+recognition&safe=strict&rlz=1C1SQJL_enMX896MX896&sxsrf=ALeKk02HE65u5YMjiZ411PRbRNGwaTeXKA:1608154734698&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi--9Gdu9PtAhUC7awKHaJKC4IQ_AUoAXoECAIQAw&biw=837&bih=492&dpr=1.25)
 
