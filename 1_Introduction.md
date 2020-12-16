@@ -31,5 +31,11 @@ In addition, computer programs have been able to beat the best humans in:
 - [Chess](https://www.bbc.com/news/av/world-us-canada-39888639)
 - [Go](https://fortune.com/2016/03/12/googles-go-computer-vs-human/#:~:text=In%20a%20decisive%20step%20forward,of%20Go's%20most%20dominant%20players.)
 
-## Why is Machine Learning now capturing a lot of 
+## Why is Machine Learning now capturing much attention?
+
+Because there are:
+- A massive amount of data. [See the image](https://www.visualcapitalist.com/every-minute-internet-2020/)
+- Computer resources (hardware) are cheaper, faster, and more powerful
+- Better understanding of algorithms
+- We have platforms to share code (for example, GitHub)
 
