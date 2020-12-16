@@ -20,4 +20,16 @@ Machine Learning definitions:
 ## Machine Learning Applications
 
 - [Face recognition](https://www.google.com/search?q=face+recognition&safe=strict&rlz=1C1SQJL_enMX896MX896&sxsrf=ALeKk02HE65u5YMjiZ411PRbRNGwaTeXKA:1608154734698&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi--9Gdu9PtAhUC7awKHaJKC4IQ_AUoAXoECAIQAw&biw=837&bih=492&dpr=1.25)
+- [Emotion recognition](https://www.google.com/search?q=emotion+recognition&tbm=isch&ved=2ahUKEwjQ-Ljnu9PtAhVOR6wKHafLBq0Q2-cCegQIABAA&oq=emotion+recognition&gs_lcp=CgNpbWcQAzIECAAQQzICCAAyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BAgjECc6BQgAELEDOggIABCxAxCDAToHCAAQsQMQQ1CouQpYkMoKYLjLCmgAcAB4AIABpgOIAcIWkgEKMS4xNi4wLjEuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=CX_aX5DQHM6OsQWnl5voCg&bih=492&biw=837&rlz=1C1SQJL_enMX896MX896&safe=strict)
+- [Identifying spam emails](https://www.google.com/search?q=Identifying+spam+emails&tbm=isch&safe=strict&rlz=1C1SQJL_enMX896MX896&hl=es&sa=X&ved=2ahUKEwj26PDhvNPtAhWIWKwKHQtpAq4QBXoECAEQLQ&biw=823&bih=478)
+- [Weather forecast](https://www.google.com/search?q=Weather+forecast&tbm=isch&ved=2ahUKEwi4hIv7vNPtAhUBOa0KHXrmAwMQ2-cCegQIABAA&oq=Wheather+forecast&gs_lcp=CgNpbWcQA1AAWABgr7sBaABwAHgAgAEAiAEAkgEAmAEAqgELZ3dzLXdpei1pbWc&sclient=img&ei=P4DaX_joBYHytAX6zI8Y&bih=478&biw=823&rlz=1C1SQJL_enMX896MX896&safe=strict&hl=es)
+- [Object recognition](https://www.google.com/search?q=Object+recognition&tbm=isch&ved=2ahUKEwjYqeWHvdPtAhWXYqwKHb4JBJQQ2-cCegQIABAA&oq=Object+recognition&gs_lcp=CgNpbWcQAzICCAAyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BAgjECc6BQgAELEDOgQIABBDOggIABCxAxCDAVDhkAFYoaMBYMekAWgAcAB4AIAB4gGIAesXkgEGMC4xMS42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=WYDaX5iZLZfFsQW-k5CgCQ&bih=478&biw=823&rlz=1C1SQJL_enMX896MX896&safe=strict&hl=es)
+- Recommendation systems, for example [Netflix](https://www.topbots.com/netflix-movie-recommender-system-rework/)
+- [Medical data analysis](https://www.datapine.com/blog/big-data-examples-in-healthcare/)
+
+In addition, computer programs have been able to beat the best humans in:
+- [Chess](https://www.bbc.com/news/av/world-us-canada-39888639)
+- [Go](https://fortune.com/2016/03/12/googles-go-computer-vs-human/#:~:text=In%20a%20decisive%20step%20forward,of%20Go's%20most%20dominant%20players.)
+
+## Why is Machine Learning now capturing a lot of 
 
