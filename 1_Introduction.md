@@ -43,3 +43,15 @@ Because there are:
 
 ![](/images/1_concepts.png)
 
+- **Artificial Intelligence** is a subfield of computer science. It is the ability of a digital computer to perform tasks commonly associated with intelligent beings.
+- **Machine learning** is a branch of Artificial Intelligence. The goal is turning data into information.
+- **Deep learning** is one kind of machine learning (neural networks) that’s very popular now. It has been given very impressive results. It needs a lot of data and computational resources to work.
+- **Data science** deals with unstructured and structured data. It is a field that comprises everything related to data cleaning, preparation, and analysis. It combines statistics, mathematics, programming, problem-solving, and capturing data in ingenious ways.
+- **Big data** is used to describe immense volumes of data, both unstructured and structured.
+
+## Recent amazing applications with the use of Deep Learning
+
+- ImageNet is a challenge that consists of recognizing a target of 1,000 different categories. The dataset is composed of more than 1.2 million images. It had been a difficult problem for computers until 2015, where AI algorithms' results improve human results. The following image shows the error of the challenge over the years.
+
+![](/images/1_imagenet_error.png)
+
