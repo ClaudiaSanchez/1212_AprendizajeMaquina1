@@ -39,3 +39,7 @@ Because there are:
 - Better understanding of algorithms
 - We have platforms to share code (for example, GitHub)
 
+## Some concepts
+
+![](/images/1_concepts.png)
+
