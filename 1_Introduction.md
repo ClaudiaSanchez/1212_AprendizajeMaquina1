@@ -65,10 +65,10 @@ Because there are:
 
 ## Types of algorithms in Maching Learning
 
-- **Supervised Learning**. It consist on creating models where a variable guides (or several variables guide) the learning process. It is divided into:
-  - **Regression**. It consist into generate a model that can predict the value or a varible (or several variables) based on other variables. For example: weather forecasting, or grades predictions.
-  - **Classification**. It consist into generate a model that can recognize the category of several samples. For example: image classification, disease diagnosis, digit recognition, or spam detection.
+- **Supervised Learning**. It consists of creating models where a variable guides (or several variables guide) the learning process. It is divided into:
+  - **Regression**. It consists of generating a model that can predict a variable's value (or several variables) based on other variables, for example, weather forecasting or grades predictions.
+  - **Classification**. It consists of generating a model that can recognize the category of several samples, for example, image classification, disease diagnosis, digit recognition, or spam detection.
 
-- **Unsupervised Learning**. It consist on understanding or creating models but with unlabeled data. 
-  - **Clustering**. It consist on grouping the samples based on their characteristics. For example: customer segmentation, or recommendation systems based on users profiles.
-  - **Dimensionality reduction**. 
+- **Unsupervised Learning**. It consists of understanding or creating models but with unlabeled data. 
+  - **Clustering**. It consists of grouping the samples based on their characteristics, for example, customer segmentation or recommendation systems based on users' profiles.
+  - **Dimensionality reduction**. It focuses on reducing the number of features or variables to reduce the problem's complexity or to visualize and understand the data.
