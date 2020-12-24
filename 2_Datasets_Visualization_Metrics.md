@@ -6,12 +6,18 @@ All the Machine Learning algorithms need data. The more the data, the better the
 - A survey data.
 
 Traditionally, the information is preprocessed to have a table with values, where the columns and rows represent the features and samples, respectively. Feature, also called variable, represents a characteristic of the object. A sample is a concrete object. Some classic nomenclature is:
-$𝑁$= Number of Features
-$𝑀$= Number of samples
-$𝑥_𝑖$= Feature $i$ values ($i$ goes for all the samples)
-$𝑥^{(𝑖)}$= Sample $i$ values ($i$ goes for all the features)
-$𝑦^{(𝑖)}= Output or label of the sample $i$
-$𝑥_𝑗^{(𝑖)}= Sample $i$, feature $j$
+
+$𝑁=$ Number of Features
+
+$𝑀=$ Number of samples
+
+$𝑥_𝑖=$ Feature $i$ values ($i$ goes for all the samples)
+
+$𝑥^{(𝑖)}=$ Sample $i$ values ($i$ goes for all the features)
+
+$𝑦^{(𝑖)}=$ Output or label of the sample $i$
+
+$𝑥_𝑗^{(𝑖)}=$ Sample $i$, feature $j$
 
 
  
