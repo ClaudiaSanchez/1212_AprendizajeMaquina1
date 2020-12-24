@@ -7,7 +7,7 @@ All the Machine Learning algorithms need data. The more the data, the better the
 
 Traditionally, the information is preprocessed to have a table with values, where the columns and rows represent the features and samples, respectively. Feature, also called variable, represents a characteristic of the object. A sample is a concrete object. Some classic nomenclature is:
 
-$𝑁=$ Number of Features
+<img src="https://render.githubusercontent.com/render/math?math=$𝑁=$"> Number of Features
 
 $𝑀=$ Number of samples
 
